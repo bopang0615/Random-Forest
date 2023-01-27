@@ -1,3 +1,2 @@
 # Random-Forest
-A case with Randome forest classifier
-Will come back and finish editing
+A very simple Random Forest Classifier implemented in python. 
